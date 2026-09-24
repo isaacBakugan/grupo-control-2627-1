@@ -6,7 +6,7 @@
       "id": "tue1-tf-1",
       "reading": "tuesday-week-1",
       "type": "true_false",
-      "statement": "PONGAN AQUÍ SU PREGUNTA VERDADERO/FALSO #1 sobre la lectura del martes de la semana 1",
+      "statement": "TEST",
       "options": [
         "Verdadero",
         "Falso"
@@ -18,7 +18,7 @@
       "id": "tue1-tf-2",
       "reading": "tuesday-week-1",
       "type": "true_false",
-      "statement": "PONGAN AQUÍ SU PREGUNTA VERDADERO/FALSO #2 sobre la lectura del martes de la semana 1",
+      "statement": "TEST",
       "options": [
         "Verdadero",
         "Falso"
